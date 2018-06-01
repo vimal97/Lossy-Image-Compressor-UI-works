@@ -1,0 +1,13 @@
+C:\Users\VIMAL\Desktop\imgcom\imgcom\bin\Debug\imgcom.exe
+C:\Users\VIMAL\Desktop\imgcom\imgcom\bin\Debug\imgcom.pdb
+C:\Users\VIMAL\Desktop\imgcom\imgcom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VIMAL\Desktop\imgcom\imgcom\obj\x86\Debug\imgcom.Form1.resources
+C:\Users\VIMAL\Desktop\imgcom\imgcom\obj\x86\Debug\imgcom.Properties.Resources.resources
+C:\Users\VIMAL\Desktop\imgcom\imgcom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VIMAL\Desktop\imgcom\imgcom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VIMAL\Desktop\imgcom\imgcom\obj\x86\Debug\imgcom.exe
+C:\Users\VIMAL\Desktop\imgcom\imgcom\obj\x86\Debug\imgcom.pdb
+J:\imgcom\imgcom\obj\x86\Debug\imgcom.exe
+J:\imgcom\imgcom\obj\x86\Debug\imgcom.pdb
+E:\ESSENTIALS\imgcom\imgcom\obj\x86\Debug\imgcom.exe
+E:\ESSENTIALS\imgcom\imgcom\obj\x86\Debug\imgcom.pdb
